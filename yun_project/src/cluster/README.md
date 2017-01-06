@@ -1,4 +1,4 @@
-requirements: pickle, sklearn
+requirements: pickle, sklearn, numpy, scipy
 
 run: python cluster.py
 
